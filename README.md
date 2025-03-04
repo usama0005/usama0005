@@ -1,6 +1,6 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:00B9FF,30:0068FF,100:814CF3&text=Hyunwoo%20Kim&fontColor=#02040A&animation=fadeIn&stroke=ADADAD)
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Usama%20Khalid&reversal=true&fontAlign=51&desc=Ph.D.&descAlignY=64&descAlign=73)
 
 <br/>
 <br/>
