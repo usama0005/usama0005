@@ -9,26 +9,9 @@
 
 <br/>
 
-#### Personal 
-
-2019 - BC Card 1st Financial Big Data Utilization Idea Contest - **Special Prize** 🎖 <br/>
-
-2019 - DACON Jeju BigData Competition [Student Category] - **3rd Prize** 🥉 <br/>
-
-2019 - Artificial Intelligence Idea Contest - **2nd Prize** 🥈 <br/>
-
-<br/>
-
-#### Team
-
-2021 - Integrated Hackathon for AI Training Data [Wildlife Activity Category] - **1st Prize** 🥇 <br/>
-
-2022 - Intel global impact festival - **TOP 3 In Korea** :kr:  :medal_sports: <br/>
-
-2023 - Seoul Web 3.0 Festival [Innovative Idea Category] - **1st Prize** 🥇 <br/>
-
-2023 - KMIS Fall Academic Conference (Under)Graduate [Generative AI Competition] - **1st Prize** 🥇 <br/>
-
+2015 - On-Spot Programming at Visio Spark [COMSATS University Islamabad] - **1st Position** 🥇 <br/>
+2016 - Web App Development at Visio Spark [Team Project] - **3rd Prize** 🥉 <br/>
+2015 - Idea Competition at NUST [Team] - **3rd Prize** 🥉 <br/>
 
 
 <br/>
