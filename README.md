@@ -1,6 +1,6 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Usama%20Khalid&reversal=true&fontAlign=51&desc=Ph.D.&descAlignY=64&descAlign=73)
+![header](https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&text=Usama%20Khalid&reversal=true&fontAlign=51&desc=Ph.D.&descAlignY=64&descAlign=73&section=header)
 
 <br/>
 <br/>
