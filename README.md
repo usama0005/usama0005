@@ -28,7 +28,7 @@ Responsibilities: Worked as a full-stack developer, designed system architecture
 #### [TeleSehat (Com-Cept)](https://www.linkedin.com/company/telesehat/about/) - Jr. Software Engineer [Aug. 2016 ~ Feb. 2017]
 Responsibilities: Full-stack development, integration & regression testing, evaluating complex systems, interfacing with Product/Project/Software teams
 
-
+#
 <br/>
 <br/>
 
@@ -41,7 +41,7 @@ Responsibilities: Full-stack development, integration & regression testing, eval
 2016 - Web App Development at Visio Spark [Team Project] - **3rd Prize** 🥉 <br/>
 2015 - Idea Competition at NUST [Team] - **3rd Prize** 🥉 <br/>
 
-
+#
 <br/>
 <br/>
 
