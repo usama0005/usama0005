@@ -126,7 +126,7 @@ MLOps
 <br/>
 
 
-### Skill
+### Skills
 
 <br/>
 
