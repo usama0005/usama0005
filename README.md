@@ -3,7 +3,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&text=Usama%20Khalid&stroke=000000&fontColor=ffffff&strokeWidth=1)
 
 <br/>
-<br/>
 
 ## Hi there 👋
 I’m a researcher and engineer working on Large Language Models with a focus on improving retriever performance. With experience since 2016 across AI/ML, computer vision, ERP development, and continual learning, I enjoy building intelligent and scalable systems.
