@@ -48,9 +48,45 @@ Responsibilities: Full-stack development, integration & regression testing, eval
 <br/>
 <br/>
 
-#
+### Publications <br/>
+
+🔗 **Google Scholar:** https://scholar.google.com/citations?user=GMvu068AAAAJ&hl=en&sortby=pubdate
 
 <br/>
+
+#### **Machine learning-based intelligent modeling of hydraulic conductivity of sandy soils considering a wide range of grain sizes**  
+Z. ur Rehman, U. Khalid, N. Ijaz, H. Mujtaba, A. Haider, K. Farooq, Z. Ijaz  
+*Engineering Geology, Vol. 311, 106899*  
+👉 https://www.sciencedirect.com/science/article/pii/S0013795222003842  
+<br/>
+
+#### **Version Management by Time-Based Approach in Modern Era**  
+H.S. Munawar, U. Khalid, R. Jilani, A. Maqsood  
+👉 https://d1wqtxts1xzle7.cloudfront.net/69647599/IJEME-V7-N4-2-libre.pdf  
+<br/>
+
+#### **Revolutionizing Telemedicine by Instilling H.265**  
+H.S. Munawar, A.A. Awan, U. Khalid, S. Munawar, A. Maqsood  
+👉 https://www.researchgate.net/publication/318401197_Revolutionizing_Telemedicine_by_Instilling_H265  
+<br/>
+
+#### **Modern Day Detection of Mines Using a Vehicle-Based Detection Robot**  
+H.S. Munawar, U. Khalid, A. Maqsood  
+👉 http://iacst.org/iacst/Conferences/The2ndICCT/uploads/The2ndICCT_188_Mine-Detection-latest-1%20(1).docx  
+<br/>
+
+#### **Fire Detection Through Image Processing: A Brief Overview**  
+H.S. Munawar, U. Khalid, A. Maqsood  
+👉 http://www.iacst.org/iacst/Conferences/The2ndICCT/uploads/The2ndICCT_204_Fire%20Detetection.docx  
+<br/>
+
+#### **Reinventing Radiology in the Modern Era**  
+H.S. Munawar, A.A. Awan, A. Maqsood, U. Khalid  
+👉 http://iacst.org/iacst/Conferences/icct2017/uploads/ICCT2017_66_Updated%20Paper,%20Reinventing%20the%20Radiology%20in%20Modern%20Era..doc  
+<br/>
+
+#### **Modern Trends in Feature-based Software Product Line Engineering in Health Sector**  
+H.A. Khan, D.S.Q. Hussain, W. Akram, U. Khalid  
 <br/>
 
 
