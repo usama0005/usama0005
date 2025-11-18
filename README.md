@@ -88,8 +88,22 @@ MLOps
 
 <br/>
 
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/></a> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a> <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/></a> <img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white"/></a> <br/>
-<img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/></a> <img src="https://img.shields.io/badge/Tensorflow-white?style=flat-square&logo=Tensorflow&logoColor=EE4C2C"/></a> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/></a> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/> 
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=python&logoColor=white"/> 
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/> 
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/> 
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/> 
+<br/>
+
+<img src="https://img.shields.io/badge/LLM-000000?style=flat-square&logo=openai&logoColor=white"/> 
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/> 
+<img src="https://img.shields.io/badge/RAG-0A66C2?style=flat-square&logo=googlegemini&logoColor=white"/> 
+<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Software%20Engineering-4A90E2?style=flat-square&logo=visualstudio&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Continual%20Learning-6A5ACD?style=flat-square&logo=deepnote&logoColor=white"/>
+
 
 <br/>
 
