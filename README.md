@@ -5,6 +5,12 @@
 <br/>
 <br/>
 
+## Hi there 👋
+I’m a researcher and engineer working on Large Language Models with a focus on improving retriever performance. With experience since 2016 across AI/ML, computer vision, ERP development, and continual learning, I enjoy building intelligent and scalable systems.
+
+<br/>
+<br/>
+
 ### Experience
 
 <br/>
@@ -116,13 +122,7 @@ MLOps
 
 <br/>
 
-### Support to me
 
-<br/>
-
-<a href="https://www.buymeacoffee.com/hwk06023" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-
-<br/>
 
 #
 
@@ -137,7 +137,6 @@ MLOps
 
 
 
-## Hi there 👋
 
 <!--
 **usama0005/usama0005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
