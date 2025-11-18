@@ -30,8 +30,9 @@
 
 #### [DBLAB](https://sites.google.com/hanyang.ac.kr/dblab/home?authuser=0) - Undergraduate researcher [May. 2022 ~ Feb. 2024] 
 
-Smart_Camera Project ( Check [Img_Recognition](https://github.com/hwk06023/Img_Recognition), [ROS](https://github.com/hwk06023/To-process.bag), [Train model](https://wandb.ai/hwk06023/train/runs/j9geyxnn/overview?workspace=user-hwk06023) ) -->
-
+Smart_Camera Project ( Check [Img_Recognition](https://github.com/hwk06023/Img_Recognition), [ROS](https://github.com/hwk06023/To-process.bag), [Train model](https://wandb.ai/hwk06023/train/runs/j9geyxnn/overview?workspace=user-hwk06023) )
+ -->
+ 
 #### [DBLAB](https://sites.google.com/hanyang.ac.kr/dblab/home?authuser=0) - Research Assistant [Mar. 2023 ~ Present] 
 Smart_Camera Project, Continual Learning, LLMs
 
