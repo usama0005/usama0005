@@ -12,9 +12,6 @@ I’m a researcher and engineer working on Large Language Models with a focus on
 <br/>
 
 ### Experience
-
-<br/>
-
  
 #### [DBLAB](https://sites.google.com/hanyang.ac.kr/dblab/home?authuser=0) - Research Assistant [Mar. 2023 ~ Present] 
 Smart_Camera Project, Continual Learning, LLMs
