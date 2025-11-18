@@ -4,6 +4,30 @@
 
 <br/>
 <br/>
+### Experience
+
+<br/>
+
+ 
+#### [DBLAB](https://sites.google.com/hanyang.ac.kr/dblab/home?authuser=0) - Research Assistant [Mar. 2023 ~ Present] 
+Smart_Camera Project, Continual Learning, LLMs
+
+
+#### [HITEC University](https://www.hitecuni.edu.pk/) - Lecturer [Feb. 2021 ~ Feb. 2023] 
+Courses Taught: Artificial Intelligence, Microprocessor & Assembly Language, Programming Fundamentals, Data Structures & Algorithms, Database Systems, Game Development & Modelling
+
+
+#### [MicroKosm](https://microkosm.com.pk/) - Software Engineer (Team Lead) [Nov. 2019 ~ Jan. 2021]
+Responsibilities: Worked as a full-stack developer, designed system architecture, wrote scalable .NET code (MVC/MVVM), tested & deployed applications, improved and optimized software systems
+
+
+#### [TeleSehat (Com-Cept)](https://www.linkedin.com/company/telesehat/about/) - Jr. Software Engineer [Aug. 2016 ~ Feb. 2017]
+Responsibilities: Full-stack development, integration & regression testing, evaluating complex systems, interfacing with Product/Project/Software teams
+
+
+<br/>
+<br/>
+
 
 ### :trophy: Awards :trophy:
 
@@ -22,32 +46,6 @@
 <br/>
 <br/>
 
-### Experience
-
-<br/>
-
-#### [Mindlogic](https://mindlogic.ai) - AI / NLP Enigneer [Mar. 2024 ~ ] <br/> <br/>
-
-#### [DBLAB](https://sites.google.com/hanyang.ac.kr/dblab/home?authuser=0) - Undergraduate researcher [May. 2022 ~ Feb. 2024] 
-
-Smart_Camera Project ( Check [Img_Recognition](https://github.com/hwk06023/Img_Recognition), [ROS](https://github.com/hwk06023/To-process.bag), [Train model](https://wandb.ai/hwk06023/train/runs/j9geyxnn/overview?workspace=user-hwk06023) )
-
- 
-#### [DBLAB](https://sites.google.com/hanyang.ac.kr/dblab/home?authuser=0) - Research Assistant [Mar. 2023 ~ Present] 
-Smart_Camera Project, Continual Learning, LLMs
-
-#### [HITEC University](https://www.hitecuni.edu.pk/) - Lecturer [Feb. 2021 ~ Feb. 2023] 
-Courses Taught: Artificial Intelligence, Microprocessor & Assembly Language, Programming Fundamentals, Data Structures & Algorithms, Database Systems, Game Development & Modelling
-
-#### [MicroKosm](https://microkosm.com.pk/) - Software Engineer (Team Lead) [Nov. 2019 ~ Jan. 2021]
-Responsibilities: Worked as a full-stack developer, designed system architecture, wrote scalable .NET code (MVC/MVVM), tested & deployed applications, improved and optimized software systems
-
-#### [TeleSehat (Com-Cept)](https://www.linkedin.com/company/telesehat/about/) - Jr. Software Engineer [Aug. 2016 ~ Feb. 2017]
-Responsibilities: Full-stack development, integration & regression testing, evaluating complex systems, interfacing with Product/Project/Software teams
-
-
-<br/>
-<br/>
 
 #
 
