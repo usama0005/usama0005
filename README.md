@@ -1,4 +1,4 @@
-<!-- <div align="center">
+<div align="center">
   
 ![header](https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&text=Usama%20Khalid&stroke=000000&fontColor=ffffff&strokeWidth=1)
 
@@ -174,13 +174,22 @@ MLOps
 </div>
 
 
--->
 
 
 
 
 
 
+
+
+
+
+
+
+
+
+
+<!--
 
 <div align="center">
 
@@ -312,7 +321,7 @@ Real-time biometric privacy protection — auto-detects and obfuscates fingerpri
 
 </div>
 
-
+-->
 
 
 
